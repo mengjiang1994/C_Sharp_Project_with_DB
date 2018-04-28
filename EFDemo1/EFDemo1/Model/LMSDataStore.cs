@@ -7,14 +7,14 @@ namespace EFDemo1.Model
 {
     public class LMSDataStore:ILMSDataStore
     {
-        private LMSDbContext _ctx;
+        private LMSDbContext _ctx; //Create by me
 
         public LMSDataStore(LMSDbContext ctx)
         {
             _ctx = ctx;
         }
 
-        private void Save() {
+        private void Save() {  //Create by me
             _ctx.SaveChanges();
         }
 
@@ -45,7 +45,8 @@ namespace EFDemo1.Model
         }
 
         public IEnumerable<Student> GetAllStudent()
-        {
+        {   
+            //这里的逻辑同上
             return _ctx.Students.OrderBy(a => a.Id).ToList();
         }
 

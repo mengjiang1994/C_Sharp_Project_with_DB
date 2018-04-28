@@ -26,6 +26,7 @@ namespace EFDemo1
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc();
+            //下面两行是我自己加的，模块化的内容
             services.AddDbContext<LMSDbContext>();
             services.AddScoped<ILMSDataStore, LMSDataStore>();
         }
