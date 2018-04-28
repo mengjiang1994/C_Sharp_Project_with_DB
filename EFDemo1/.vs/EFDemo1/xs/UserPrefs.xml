@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{0F3011E4-E7B1-4F3F-910A-206B9920CDBF}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="EFDemo1/Properties/launchSettings.json">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EFDemo1/Controllers/StudentController.cs">
     <Files>
       <File FileName="EFDemo1/Model/Course.cs" Line="14" Column="41" />
       <File FileName="EFDemo1/Model/Student.cs" Line="6" Column="9" />
