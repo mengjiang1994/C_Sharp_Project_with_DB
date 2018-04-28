@@ -1,0 +1,11 @@
+/Users/Dandy/Documents/full_stack/10csharp4/EFDemo1/EFDemo1/bin/Debug/netcoreapp2.0/EFDemo1.deps.json
+/Users/Dandy/Documents/full_stack/10csharp4/EFDemo1/EFDemo1/bin/Debug/netcoreapp2.0/EFDemo1.runtimeconfig.json
+/Users/Dandy/Documents/full_stack/10csharp4/EFDemo1/EFDemo1/bin/Debug/netcoreapp2.0/EFDemo1.runtimeconfig.dev.json
+/Users/Dandy/Documents/full_stack/10csharp4/EFDemo1/EFDemo1/bin/Debug/netcoreapp2.0/EFDemo1.dll
+/Users/Dandy/Documents/full_stack/10csharp4/EFDemo1/EFDemo1/bin/Debug/netcoreapp2.0/EFDemo1.pdb
+/Users/Dandy/Documents/full_stack/10csharp4/EFDemo1/EFDemo1/obj/Debug/netcoreapp2.0/EFDemo1.csprojResolveAssemblyReference.cache
+/Users/Dandy/Documents/full_stack/10csharp4/EFDemo1/EFDemo1/obj/Debug/netcoreapp2.0/EFDemo1.csproj.CoreCompileInputs.cache
+/Users/Dandy/Documents/full_stack/10csharp4/EFDemo1/EFDemo1/obj/Debug/netcoreapp2.0/EFDemo1.AssemblyInfoInputs.cache
+/Users/Dandy/Documents/full_stack/10csharp4/EFDemo1/EFDemo1/obj/Debug/netcoreapp2.0/EFDemo1.AssemblyInfo.cs
+/Users/Dandy/Documents/full_stack/10csharp4/EFDemo1/EFDemo1/obj/Debug/netcoreapp2.0/EFDemo1.dll
+/Users/Dandy/Documents/full_stack/10csharp4/EFDemo1/EFDemo1/obj/Debug/netcoreapp2.0/EFDemo1.pdb
